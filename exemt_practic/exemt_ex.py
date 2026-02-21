@@ -27,4 +27,7 @@ def filter_excellent_students(file_name, file_autput_name):
     print(processed_students)
     print("file redus secssed ", file_autput_name)
 
-filter_excellent_students("students.txt", "excellent.txt")
+# filter_excellent_students("students.txt", "excellent.txt")
+
+
+

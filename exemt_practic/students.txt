@@ -1,6 +1,6 @@
 John Miller,22
 
-Sarah Johnson,19
+Sarah Johnson,100
 
 Michael Brown,24
 
@@ -12,7 +12,7 @@ Olivia Taylor,20
 
 Ethan Anderson,25
 
-Sophia Thomas,18
+Sophia Thomas,91
 
 Liam Jackson,27
 
@@ -22,7 +22,7 @@ Noah Harris,26
 
 Mia Martin,24
 
-James Thompson,23
+James Thompson,95
 
 Isabella Garcia,20
 

@@ -1,0 +1,14 @@
+INFO User login successful for user: admin
+WARNING Disk space running low on drive C:
+ERROR Failed to connect to database server
+INFO Scheduled backup completed successfully
+INFO New user registered: david.k
+WARNING High memory usage detected in process ID 4821
+ERROR File not found: config/settings.ini
+INFO System health check completed
+ERROR Unauthorized access attempt detected from IP 192.168.1.44
+INFO Email notification sent to support team
+WARNING CPU temperature above recommended threshold
+INFO Daily report generated successfully
+ERROR Payment processing service returned status code 503
+INFO Cache cleared successfully
